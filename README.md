@@ -1,4 +1,4 @@
-# Deveopment
+# Development
 This a homework for IT development, it introduces the basics of using github to create projects
 
 ## Source Code Description
